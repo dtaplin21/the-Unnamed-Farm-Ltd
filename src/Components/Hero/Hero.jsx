@@ -1,7 +1,7 @@
 /*eslint-disable*/
 import React from 'react'
 import './Hero.css'
-import Black_Arrow from "../../assets/black-arrow.png"
+
 
 const Hero = () => {
   return (
@@ -12,7 +12,6 @@ const Hero = () => {
           creating enviromentally friendly and delicious chocolate. The unnamed farm is made up of 100 acres of 
           tropical rainforest in the West African nation north of 
           the equator. </p>
-          <button className="btn"> Explore more <img src={Black_Arrow} alt="" /></button>
       </div>
     </div>
   )

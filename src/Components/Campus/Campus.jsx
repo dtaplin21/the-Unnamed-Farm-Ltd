@@ -5,7 +5,6 @@ import Gallery1 from '../../assets/gallery1.jpeg'
 import Gallery2 from '../../assets/gallery2.jpeg'
 import Gallery3 from '../../assets/gallery3.jpeg'
 import Gallery4 from '../../assets/gallery4.JPG'
-import White_Arrow from "../../assets/arrow.png"
 
 const Campus = () => {
   return (
@@ -16,7 +15,6 @@ const Campus = () => {
             <img src={Gallery3} alt="" />
             <img src={Gallery4} alt="" />
         </div>
-        <button className="btn dark-btn">See More Here <img src={White_Arrow} alt="" /></button>
     </div>
   )
 }

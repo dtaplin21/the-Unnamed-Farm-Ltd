@@ -27,7 +27,7 @@ const App = () => {
         <About setPlay={setPlay} />
         <Title subTitle='Gallery' title='Farm Photos' />
         <Campus />
-        <Title title='Meet the Team' />
+        <Title subTitle="More About Us" title='Meet the Team' />
         <Team />
         <Title title='Contact Us' />
         <Contact />
