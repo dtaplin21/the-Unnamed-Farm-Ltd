@@ -1,6 +1,6 @@
 /*eslint-disable*/
 import React from 'react'
-import './title.css'
+import './Title.css'
 
 const Title = ({subTitle, title}) => {
   return (

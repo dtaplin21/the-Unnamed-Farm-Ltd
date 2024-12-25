@@ -1,7 +1,7 @@
 /*eslint-disable*/
 import { useRef } from "react"
 import React from 'react'
-import './videoPlayer.css'
+import './VideoPlayer.css'
 import Video from '../../assets/New-farm-video.mp4'
 
 const VideoPlayer = ({play, setPlay}) => {
