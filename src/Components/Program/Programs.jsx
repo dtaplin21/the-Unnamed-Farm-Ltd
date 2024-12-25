@@ -1,7 +1,7 @@
 /*eslint-disable*/
 import React from 'react'
 import "./Programs.css"
-import pro_1 from "../../assets/founder.jpg"
+import pro_1 from "../../assets/Founder.jpg"
 import pro_2 from "../../assets/falllah.JPG"
 
 const Programs = () => {
