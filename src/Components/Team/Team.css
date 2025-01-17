@@ -63,7 +63,7 @@
 /* ------ media Query ------*/
 
 
-@media (max-width: 600px){
+@media (max-width: 800px){
     .team{
         padding: 0 40px;
 
@@ -89,11 +89,15 @@
         margin-bottom: 10px;
         font-size:"12px"
     }
-    .team-info h3{
+    .team-info h3 {
         font-size: 16px;
     }
-    .slider p{
+    .slider p {
         font-size: 12px;
-        height: 50%
+        height: 5px;
+    }
+
+    .slide img {
+        width: 100%
     }
 }
