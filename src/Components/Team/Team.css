@@ -63,7 +63,7 @@
 /* ------ media Query ------*/
 
 
-@media (max-width: 800px){
+@media (max-width: 600px){
     .team{
         padding: 0 40px;
 
