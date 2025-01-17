@@ -8,7 +8,7 @@ import Jenkins from '../../assets/Jenkins.jpeg'
 import Zathy from '../../assets/Zathy.jpeg'
 import Dom from '../../assets/Dom.jpeg'
 import Fallah from '../../assets/falllah.JPG'
-import Darcy from '../../assets/Darcy.jpeg'
+import Darcy from '../../assets/darcy-new.jpeg'
 
 const Team = () => {
 
