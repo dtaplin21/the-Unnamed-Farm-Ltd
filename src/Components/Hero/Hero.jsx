@@ -8,10 +8,7 @@ const Hero = () => {
      <div className="hero container"> 
       <div className="hero-text">
         <h1>From Farm to Bean to Bar</h1>
-        <p>We carefully cultivate cocoa beans in Segbeh, Liberia where our village prides ourselves on 
-          creating enviromentally friendly and delicious chocolate. The unnamed farm is made up of 100 acres of 
-          tropical rainforest in the West African nation north of 
-          the equator. </p>
+        <p> Unnamed by choice. Remembbered by purpose. Aquiet tribute to those who came before - a clear stand for legacy. </p>
       </div>
     </div>
   )
