@@ -23,35 +23,53 @@ const About = ({setPlay}) => {
         <div className="about-right">
           <h3>ABOUT UNNAMED FARM</h3>
           <h2>Nurturing Tomorrows Future Today</h2>
-          <p>The UnNamed Farm Inc. is an agricultural corporation that produces
-          some of the world's most organic superfoods. Our company sits on 1,000
-          acres of available land in a small village called SEGBEH TOWN, in
-          Tapita, Liberia. Segbeh Town is located in the Eastern region of
-          Liberia. Due to the growing infrastructure in the
-          area, thanks to the Chinese government-sponsored Tapita JFD Hospital,
-          many farmers, including our families, have started agricultural
-          projects in the vastly forested and fertile lands. In our case, we've
-          decided to focus on superfoods like cocoa and various others,
-          including but not limited to Moringa, Turmeric, Fonio, Baobab, and
-          more. It is noteworthy that Liberia currently produces only 0.02% of
-          the global cocoa production. Worldwide, 90% of cocoa is grown on small
-          family farms of 2-5 hectares, while just 5% is grown by large farms of
-          40 hectares or more. Our advantage lies in our 202 hectares, which
-          positions us competitively. With the demand for cocoa growing rapidly
-          each year, we believe that the estimated 1,000 acres shared by our
-          families can propel us to become major players in the global
-          agricultural markets, with cocoa leading the way. Eventually, our aim
-          is to create a supply chain where we own the cocoa processing
-          facilities and other processing facilities, enabling easier
-          distribution of our products worldwide. We believe that with funding
-          of $250,000, we can leverage our family property and the generational
-          sustainability practices of our local farmers to generate millions of
-          dollars in the Liberian agricultural market. Our mission is to source
-          sustainably and empower communities by working directly with local
-          farmers in SEGBEH TOWN, Tapita, Liberia, and providing fair wages for
-          their produce. Our ultimate goal is to promote fair and sustainable
-          farming practices in Liberia and put Liberian farmers on the global
-          stage.</p>
+          <p>In the heart of West Africa, Liberia’s farmers have long stood at the foundation of the nation's economy
+and cultural identity. We produce over 34% of Liberia’s GDP and represent more than 60% of the national
+workforce (World Bank, 2024). Yet, despite our vital role, rural communities like ours continue to face
+overwhelming challenges—with poverty rates reaching nearly 70% in the countryside (Sida, 2024).
+On our fertile land, we cultivate staples like rice, cassava, and cocoa. But the paradox is hard to ignore:
+while we grow what we eat, Liberia still imports nearly 70% of its rice (FAO, 2024). And while we export
+raw materials like cocoa and cassava, they leave our shores unprocessed, capturing only 10% of their final
+value in global markets—because the real profits are made elsewhere (World Bank, 2024).
+For me, this reality is more than statistics—it’s deeply personal.
+Our farm is in Segbehplay, Nimba County, a place where my family has lived and worked the land for
+generations. This is more than farmland—it’s legacy. My father, Neamon Fallah, along with his brothers,
+our neighbors, and extended kin, have always been part of this story. They are not just farmers. They are
+stewards of our history, our land, and our community’s survival.
+My journey began in 1999, at the height of Liberia’s civil unrest. Forced to leave the country, my family
+sought safety in the United States. Through the I-94 refugee asylum program, my grandfather—already
+living in America—filed for five of his eldest grandchildren, including me, to join him. Before we left, he
+gave us a purpose:
+“I’m bringing you to America for a better education—so you can return and help the people
+you left behind.”
+Those words became a compass in my life.
+In the U.S., I pursued that education and built a future—but never lost sight of the mission. Then in 2021,
+after 22 years away, I returned to Liberia. What I saw was a painful reminder of everything my
+grandfather had warned us about: underdeveloped infrastructure, limited schools, and a reliance on
+subsistence farming that keeps families trapped in survival mode rather than building toward prosperity.
+That return was a turning point.
+It led to the founding of The UnNamed Farm Ltd., rooted on our ancestral land. We’re now scaling up
+across 700 acres, cultivating rice, cassava, and cocoa not just for subsistence, but for transformation. With
+on-site processing facilities—fermentation units, cassava grating and drying systems, rice mills—we are
+reclaiming the value chain. We’re keeping more of the profit, the opportunity, and the ownership right
+here at home.
+This isn’t just about farming. It’s about solutions.
+In Africa, transport costs alone can inflate expenses by 30–40% (White & Case, 2023). Financing is
+scarce. Processing technology is often out of reach due to regulatory and market barriers (Kearney, 2024).
+But if we bridge this gap in value-added processing, intra-African trade could grow by $22 billion
+
+annually (UNECA, 2025). We're using blockchain for traceability, enabling us to sell in international
+markets at 20–30% premium rates for organic and ethical products.
+Our philosophy is captured in our slogan:
+“UnNamed by choice. Remembered by purpose.”
+This is more than a name—it’s a movement. We’ve committed 10% equity to our local community,
+established CSR programs to support rural schools and clinics, and ensured that our farmworkers earn fair
+and dignified wages. We're proving that rural agriculture doesn’t have to mean poverty—it can mean
+partnership, innovation, and sustainable prosperity.
+When you support The UnNamed Farm Ltd., you’re not just investing in a company.
+You’re aligning with family farmers who are rewriting the story of African agriculture—one acre, one
+seed, one community at a time.
+Let’s build a legacy together.</p>
         </div>
       </div>
   )
