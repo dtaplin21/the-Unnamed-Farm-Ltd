@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = () => {
   return (
     <div className="footer">
-        <p>@ 2024 Unnamed Farm. All Rights Reserved</p>
+        <p>@2025 UnNamed Legacy Group. All rights Reserved</p>
         <ul>
             <li>Terms Of Service</li>
             <li>Privacy Policy</li>
