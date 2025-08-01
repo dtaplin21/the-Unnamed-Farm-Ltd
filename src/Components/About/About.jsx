@@ -9,7 +9,7 @@ const About = ({setPlay}) => {
     <div className="about">
       <div className="about-left">
         <div className="video-description">
-          <h4>Watch a video made by the locals showing the Hard work, dedication and Family dynamic that creates the chocolate bars that you eat today!</h4>
+          <h4>WATCH WHY IT ALL STARTED</h4>
         </div>
         <video 
           src={Farm}

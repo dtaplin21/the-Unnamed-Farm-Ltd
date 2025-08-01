@@ -43,7 +43,7 @@ const Contact = () => {
             <ul>
                 <li>info@theunnamedfarm.com</li>
                 <li>+1(240)237-2398</li>
-                <li>Segbehplay, Tappatita District, 
+                <li>Segbehplay, Tappita District, 
                   Lower Nimba County, Liberia</li>
             </ul>
         </div>
