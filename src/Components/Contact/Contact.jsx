@@ -41,9 +41,10 @@ const Contact = () => {
                 service to our customers.
             </p>
             <ul>
-                <li>Theunnamedfarm@gmail.com</li>
-                <li>+1 510-326-1121</li>
-                <li>Segbeh Town, Liberia</li>
+                <li>info@theunnamedfarm.com</li>
+                <li>+1(240)237-2398</li>
+                <li>Segbehplay, Tappatita District, 
+                  Lower Nimba County, Liberia</li>
             </ul>
         </div>
         <div className="contact-col">

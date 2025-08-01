@@ -21,7 +21,7 @@ const About = ({setPlay}) => {
         <img src={Play} alt="" className="play" onClick={() => {setPlay(true)}} />
       </div>
         <div className="about-right">
-          <h3>ABOUT UNNAMED FARM</h3>
+          <h3>ABOUT THE UNNAMED FARM LTD</h3>
           <h2>Nurturing Tomorrows Future Today</h2>
           <p>In the heart of West Africa, Liberia’s farmers have long stood at the foundation of the nation's economy
 and cultural identity. We produce over 34% of Liberia’s GDP and represent more than 60% of the national

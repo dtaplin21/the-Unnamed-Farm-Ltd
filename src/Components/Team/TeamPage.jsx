@@ -37,7 +37,7 @@ const TeamPage = () => {
       <div className="team-page">
         <div className="team-page-header">
           <h1>Meet Our Team</h1>
-          <p>Get to know the passionate individuals behind The Unnamed Farm</p>
+          <p>Get to know the passionate individuals behind The Unnamed Farm LTD</p>
         </div>
         <div className="team">
             <img src={left_arrow} alt="" className="back-btn" onClick={slideBackward}/>
