@@ -61,7 +61,7 @@ const TeamPage = () => {
                                 After college, Jenkins became a successful entrepreneur, 
                                 starting with a drop-shipping venture followed by a digital 
                                 production company. Drawing from his rich lineage of farmers 
-                                and his expertise in marketing, he co-founded The Unnamed Farm LTD 
+                                and his expertise in marketing, he co-founded The UnNamed Farm LTD 
                                 with his father, aiming to spotlight the challenges faced by 
                                 Liberian farmers.</p>
                         </div>
@@ -82,7 +82,7 @@ const TeamPage = () => {
                                  strong ability to connect with people from varied 
                                  backgrounds. This skill laid the foundation for a 
                                  successful career in automotive, financial, and software 
-                                 sales. As a key member of The Unnamed Farm Inc., 
+                                 sales. As a key member of The UnNamed Farm LTD, 
                                  Zathy leverages his sales expertise to lead sales 
                                  initiatives and build lasting relationships, strengthening 
                                  the brand's presence in the market.</p>
@@ -119,7 +119,7 @@ const TeamPage = () => {
                                     <span>Washington, DC</span>
                                 </div>
                             </div>
-                            <p>Darcy Pelz-Butler, a cornerstone of The Unnamed Farm Inc., 
+                            <p>Darcy Pelz-Butler, a cornerstone of The UnNamed Farm LTD, 
                                 boasts a diverse background rooted in athletics and multiculturalism. 
                                 A Division 1 soccer player at Delaware State University, she graduated 
                                 summa cum laude with a Bachelor of Science in Physical Education. 
@@ -129,7 +129,7 @@ const TeamPage = () => {
                                 P.C., one of America's premier rheumatology practices. Starting as a 
                                 physical therapy technician, her dedication propelled her to the role of 
                                 Front Office Coordinator. Darcy's commitment to physical well-being aligns 
-                                seamlessly with The Unnamed Farm Inc.'s vision of promoting health through nutrition.</p>
+                                seamlessly with The UnNamed Farm LTD's vision of promoting health through nutrition.</p>
                         </div>
                     </li>
                     <li>
@@ -141,13 +141,13 @@ const TeamPage = () => {
                                     <span>Towerhill, Liberia</span>
                                 </div>
                             </div>
-                            <p>an adept agricultural project manager at The UnNamed Farm Inc., boasts a rich legacy of 
+                            <p>an adept agricultural project manager at The UnNamed Farm LTD, boasts a rich legacy of 
                                 sustainable farming and managerial roles in Liberia's logging industry. From 2011-2013, 
                                 he showcased his expertise as the Quality Control Manager at Madra, a Chinese logging firm. 
                                 His journey continued from 2016-2019 as the Deputy Bush Manager at BILL LIBERIA, where he 
                                 led bush operations with precision. Currently, at West Water Group Company, NEAMON oversees 
                                 production processes, ensuring top-tier quality and efficiency. Born into a lineage of farmers, 
-                                NEAMON's deep-rooted agricultural skills make him an invaluable asset to The UnNamed Farm Ltd.</p>
+                                NEAMON's deep-rooted agricultural skills make him an invaluable asset to The UnNamed Farm LTD.</p>
                         </div>
                     </li>
                 </ul>
