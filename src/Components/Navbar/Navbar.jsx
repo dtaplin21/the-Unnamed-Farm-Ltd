@@ -30,7 +30,15 @@ const toggleMenu = ()=>{
         <ul className={mobileMenu?'':'show-mobile-menu'}>
           <li><Link to="/" className={location.pathname === '/' ? 'active' : ''}>Home</Link></li>
           <li><Link to="/team" className={location.pathname === '/team' ? 'active' : ''}>About the Team</Link></li>
-          <li><a href="#contact" className="btn">Contact Us</a></li>
+          <li><Link to="/" onClick={() => {
+            // Scroll to contact section after navigation
+            setTimeout(() => {
+              const contactSection = document.getElementById('contact');
+              if (contactSection) {
+                contactSection.scrollIntoView({ behavior: 'smooth' });
+              }
+            }, 100);
+          }} className="btn">Contact Us</Link></li>
         </ul>
         <img src={Menu_icon} alt="" className="menu-icon" onClick={toggleMenu}/>
     </nav> 

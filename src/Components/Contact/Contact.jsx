@@ -32,7 +32,7 @@ const Contact = () => {
     }
 
   return (
-    <div className="contact">        
+    <div className="contact" id="contact">        
         <div className="contact-col">
             <h3>Send us a message <img src={Message} alt="" /></h3>
             <p>Feel free to reach out through contact form or find our
