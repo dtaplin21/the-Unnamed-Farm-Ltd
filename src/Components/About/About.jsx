@@ -7,7 +7,7 @@ import Farm from "../../assets/New-farm-video.mp4"
 const About = ({setPlay}) => {
   return (
     <div className="about">
-      <div className="about-left">
+      <div className="about-video-section">
         <div className="video-description">
           <h4>WATCH WHY IT ALL STARTED</h4>
         </div>
@@ -21,10 +21,10 @@ const About = ({setPlay}) => {
         >
         </video>
       </div>
-        <div className="about-right">
-          <h3>ABOUT THE UNNAMED FARM LTD</h3>
-          <h2>Nurturing Tomorrows Future Today</h2>
-          <p>In the heart of West Africa, Liberia's farmers have long stood at the foundation of the nation's economy
+      <div className="about-text-section">
+        <h3>ABOUT THE UNNAMED FARM LTD</h3>
+        <h2>Nurturing Tomorrows Future Today</h2>
+        <p>In the heart of West Africa, Liberia's farmers have long stood at the foundation of the nation's economy
 and cultural identity. We produce over 34% of Liberia's GDP and represent more than 60% of the national
 workforce (World Bank, 2024). Yet, despite our vital role, rural communities like ours continue to face
 overwhelming challenges—with poverty rates reaching nearly 70% in the countryside (Sida, 2024).
@@ -71,8 +71,8 @@ When you support The UnNamed Farm Ltd., you're not just investing in a company.
 You're aligning with family farmers who are rewriting the story of African agriculture—one acre, one
 seed, one community at a time.
 Let's build a legacy together.</p>
-        </div>
       </div>
+    </div>
   )
 }
 
